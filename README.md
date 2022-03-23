@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @sahilsxn
-- 👀 I’m interested in UI Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on FrontEnd projects
-- 📫 How to reach me sahil[dot]saxena75atgmaildotcom
+👨🏻‍💻 About Me
+🕸️   Passionate about coding and building products users fall in love with.
+🔭   Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux) .
+🌱   Learning more about technologies that go into building Full Stack Applications.
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+
+🛠 Tech Stack
+💻   JavaScript | ES5 | ES6
+🌐   HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap
+💡   AJAX | JSON | Local Storage | API'S
+🔧   Git | Visual Studio Code | Postman | Netlify | Heroku
+📅   Jira, Notion, Slack, Discord
 
 <!---
 sahilsxn/sahilsxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
