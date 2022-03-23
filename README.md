@@ -1,15 +1,17 @@
-👨🏻‍💻 About Me
-🕸️   Passionate about coding and building products users fall in love with.
-🔭   Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux) .
-🌱   Learning more about technologies that go into building Full Stack Applications.
-🤔   Exploring new technologies and developing software solutions and quick hacks.
+👨🏻‍💻 About Me <br/>
 
-🛠 Tech Stack
-💻   JavaScript | ES5 | ES6
-🌐   HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap
-💡   AJAX | JSON | Local Storage | API'S
-🔧   Git | Visual Studio Code | Postman | Netlify | Heroku
-📅   Jira, Notion, Slack, Discord
+🕸️   Passionate about coding and building products users fall in love with. <br/>
+🔭   Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux) . <br/>
+🌱   Learning more about technologies that go into building Full Stack Applications. <br/>
+🤔   Exploring new technologies and developing software solutions and quick hacks. <br/>
+
+🛠 Tech Stack <br/>
+
+💻   JavaScript | ES5 | ES6 <br/>
+🌐   HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap <br/>
+💡   AJAX | JSON | Local Storage | API'S <br/>
+🔧   Git | Visual Studio Code | Postman | Netlify | Heroku <br/>
+📅   Jira, Notion, Slack, Discord <br/>
 
 <!---
 sahilsxn/sahilsxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
