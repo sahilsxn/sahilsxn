@@ -11,9 +11,9 @@
 💻    JavaScript | ES5 | ES6 <br/>
 🌐    HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap <br/>
 💡    AJAX | JSON | Local Storage | API'S <br/>
+🎨    Figma, Zeplin, AdobeXD, ProtoPie, Webflow <br/>
 🔧    Git | Visual Studio Code | Postman | Netlify | Heroku <br/>
 📅    Jira, Notion, Slack, Discord <br/>
-🎨    Figma, Zeplin, AdobeXD, ProtoPie, Webflow <br/>
 
 <!---
 sahilsxn/sahilsxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
