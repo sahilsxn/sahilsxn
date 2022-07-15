@@ -9,7 +9,7 @@
 🛠 Tech Stack <br/>
 
 💻    JavaScript | ES5 | ES6 <br/>
-🌐    HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap <br/>
+🌐    HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap | Tailwind CSS <br/>
 💡    AJAX | JSON | Local Storage | API'S <br/>
 🎨    Figma, Zeplin, AdobeXD, ProtoPie, Webflow <br/>
 🔧    Git | Visual Studio Code | Postman | Netlify | Heroku <br/>
